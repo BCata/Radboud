@@ -1,0 +1,30 @@
+Inference Problem
+
+	Main goal of our Bayesian Network is trying to predict how likely is for given individual to carry some kind of weapon in school. 
+    That prediction is based on individual's basic info (age, sex, race, grades) and some other important factors like how often does
+	that individual get drunk, is he/she depressed etc.
+
+	Furthermore, we want to see what variables make greatest impact on carrying weapon to schools.
+	Last but not least, we want to see if there are more bullied individuals in schools where students are more likely to carry a weapon.
+
+******************************************************************************
+
+Implementation Problem
+
+We will implement our Bayesian Network using Python's pgmpy library.
+
+******************************************************************************
+
+Problem Domain
+
+	Violence in schools represent a serious problem in many countries, especially where weapons such as guns or knives are involved.
+ Although school is meant to be a secure and friendly place for every person, a place to meet new people and learn interesting stuff, 
+many children are afraid to go there. They are often threatened and bullied by other children. That kind of environment is unacceptable
+ and something has to be done in order to prevent further violence. Bullied children can have serious consequences for the rest of their lives.
+
+Lots of different factors can contribute school violence. For example home environment can be major factor. The Constitutional Rights 
+Foundation suggests long-term exposure to gun violence, parental alcoholism, domestic violence, physical abuse of the child, and child 
+sexual abuse teaches children that criminal and violent activities are acceptable.
+
+In this project we are focusing on some of the individual's characteristics in order to predict their behaviour, how are those 
+characteristics connected and how important are they.

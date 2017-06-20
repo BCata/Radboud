@@ -1,0 +1,25 @@
+URL to the dataset: http://www.cdc.gov/healthyyouth/data/yrbs/data.htm
+
+
+Possible variables:
+
+--> Age Q1
+--> Sex Q2
+--> Race Q5-Q4
+--> Grades Q89
+
+
+--> Stratum or PSU (How good the school is)
+--> Did you carry weapons? Q13 
+--> Did you carry weapons on school? Q15 
+--> Do you feel unsecure at school? Q16
+--> How many times were you threatened? Q17
+-->  How many times you were in a fight? Q18 Q20
+--> Bullied in on school? Q24
+--> HAVE YOU BEEN DEPRESSED? Q26
+--> How often do you get drunk (Q43, Q44)
+--> How often do they consume drugs? There is no question
+--> How many sports do you do? Q80
+--> HOw many times do they go to the gym? Q9
+
+QUESTION: PREDICT IF THE PARTICIPANT CARRIES WEAPONS ON SCHOOL IN THE U.S.
