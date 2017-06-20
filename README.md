@@ -1,2 +1,2 @@
 # Radboud
-Repository for files and homeworks done at Radboud University - Data Science Masters
+Repository for files and assignments done at Radboud University - Data Science Masters
